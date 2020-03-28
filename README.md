@@ -3,7 +3,7 @@
 
 Welcome to Ring KDE Client!
 
-Ring-KDE is a Qt based client for the [Ring](www.ring.cx) daemon.
+Ring-KDE is a Qt based client for the [Ring](https://www.ring.cx) daemon.
 
 ### Installation
 For install instructions, read the INSTALL file, in this directory.
